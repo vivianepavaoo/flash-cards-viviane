@@ -4,3 +4,4 @@ function criacartao(categoria, pergunta, resposta) {
     cartao.classname = cartao;
 
     cartao.inneHTMl=
+    <div class=¨cartao__conteudo¨>
