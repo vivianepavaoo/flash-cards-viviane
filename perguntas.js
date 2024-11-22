@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Meio ambiente',
     'Quai são os efeitos da poluição da água na saúde humana e na vida aquática?',
-    'R:A ingestão de água contaminada po9de causae uma série de doenças, incluindo gastrioenterite, hepatite, entre outros'
+    'R:A ingestão de água contaminada pode causar uma série de doenças, incluindo gastrioenterite, hepatite, entre outros'
 )
 
 criaCartao(
